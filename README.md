@@ -7,7 +7,7 @@ Este projeto tem como objetivo simular uma loja online de instrumentos musicais 
 https://github.com/mery-helen/stringon-css
 
 ## Protótipo
-
+https://www.figma.com/file/sjHo6wx6Zk8IePKMHymI4M/stringon?type=design&node-id=0%3A1&mode=design&t=Bwp8aJttiNfV3UdX-1
 
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
